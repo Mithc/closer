@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(70, 112, 182);
+}
+img {
+  width: 560px;
+  height: 137px;
+  margin-top: 180px;
+  margin-bottom: 16px;
+}
+.container {
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Segoe UI";
+}
+
+span {
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+.content {
+  margin-top: 22px;
+}
